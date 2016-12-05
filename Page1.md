@@ -1,3 +1,8 @@
+---
+layout:  default
+title: Page 1
+---
+
 #Welcome to ServiceNow!
 In this course, you will develop your first application on ServiceNow's powerful application platform.  The Innovate application you will create allows employee to make suggestions that are directed to the appropriate organization within the company or organization.  The suggestions include process improvements, teambuilding activities, and cost cutting.
 As with any application, the key to success is to design the application before starting to build the application.
